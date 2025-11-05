@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -297,7 +296,6 @@
                 <div class="contact-item">
                     📧 <a href="mailto:arashmirhosseini@phas.ubc.ca">arashmirhosseini@phas.ubc.ca</a>
                 </div>
-
                 <div class="contact-item">
                     💻 <a href="https://github.com/arashcosmology" target="_blank">GitHub</a>
                 </div>
