@@ -297,9 +297,7 @@
                 <div class="contact-item">
                     📧 <a href="mailto:arashmirhosseini@phas.ubc.ca">arashmirhosseini@phas.ubc.ca</a>
                 </div>
-                <div class="contact-item">
-                    📱 +1-236-998-7412
-                </div>
+
                 <div class="contact-item">
                     💻 <a href="https://github.com/arashcosmology" target="_blank">GitHub</a>
                 </div>
