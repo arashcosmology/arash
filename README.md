@@ -575,8 +575,7 @@
                 </p>
                 <p class="about-text">
                     <strong>Email:</strong> <a href="mailto:arashmirhosseini@phas.ubc.ca">arashmirhosseini@phas.ubc.ca</a><br>
-                    <strong>Phone:</strong> +1-236-998-7412<br>
-                    <strong>GitHub:</strong> <a href="https://github.com/arashmirhosseini" target="_blank">github.com/arashmirhosseini</a>
+                    <strong>GitHub:</strong> <a href="https://github.com/arashcosmology" target="_blank">github.com/arashmirhosseini</a>
                 </p>
             </section>
         </div>
