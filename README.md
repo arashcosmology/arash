@@ -301,10 +301,10 @@
                     📱 +1-236-998-7412
                 </div>
                 <div class="contact-item">
-                    💻 <a href="https://github.com/arashmirhosseini" target="_blank">GitHub</a>
+                    💻 <a href="https://github.com/arashcosmology" target="_blank">GitHub</a>
                 </div>
                 <div class="contact-item">
-                    🎓 <a href="https://scholar.google.com" target="_blank">Google Scholar</a>
+                    🎓 <a href="https://scholar.google.ca/citations?user=nef-kJMAAAAJ&hl=en" target="_blank">Google Scholar</a>
                 </div>
                 <div class="contact-item">
                     📍 Vancouver, BC, Canada
